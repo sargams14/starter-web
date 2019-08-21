@@ -1,0 +1,93 @@
+[33mcommit e14e15211c0eaa486a4c0fbef404a08de38d939c[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: Sargam Sharma <sargams14@gmail.com>
+Date:   Wed Aug 21 02:09:44 2019 -0700
+
+    Deleted files
+
+[33mcommit 7940c99c405617d87a1177890fa37acd2e8d1a09[m
+Author: Sargam Sharma <sargams14@gmail.com>
+Date:   Wed Aug 21 01:49:23 2019 -0700
+
+    Deleting newfile
+
+[33mcommit b8bcada2d1e377ecd7e892fab9cc0763b7e1f589[m
+Author: Sargam Sharma <sargams14@gmail.com>
+Date:   Wed Aug 21 01:35:33 2019 -0700
+
+    Renamed the file
+
+[33mcommit c5a47abce9cf268c3897d9ad34b87cf440b9a0b6[m
+Author: Sargam Sharma <sargams14@gmail.com>
+Date:   Wed Aug 21 00:09:14 2019 -0700
+
+    Moving the file from level3 to level2
+
+[33mcommit 592c4a3968a93600e6a9af661df4c761b6be4230[m
+Author: Sargam Sharma <sargams14@gmail.com>
+Date:   Wed Aug 21 00:07:29 2019 -0700
+
+    Moving file from level2 to level3
+
+[33mcommit 682ce19e6d0651dd3a90d048b6f128b8cde77fd2[m
+Author: Sargam Sharma <sargams14@gmail.com>
+Date:   Wed Aug 21 00:02:19 2019 -0700
+
+    Renaming level3 file
+
+[33mcommit 1bdf1c28f213f2cc264424514fbe00f3fc82929a[m
+Author: Sargam Sharma <sargams14@gmail.com>
+Date:   Tue Aug 20 23:55:08 2019 -0700
+
+    Adding several files recursively
+
+[33mcommit fdf17bf5f4e67355f41bae2c759235bce0a49b58[m
+Author: Sargam Sharma <sargams14@gmail.com>
+Date:   Tue Aug 20 23:11:33 2019 -0700
+
+    More ipsum for strangers
+
+[33mcommit a22d9c72caca77bbefb0ad3a424cd459448f3929[m
+Author: Sargam Sharma <sargams14@gmail.com>
+Date:   Tue Aug 20 23:09:13 2019 -0700
+
+    Adding new file
+
+[33mcommit 0399e3f49f36ea7a8c9013ac9002941f04cf8aff[m
+Author: Sargam Sharma <sargams14@gmail.com>
+Date:   Tue Aug 20 23:05:20 2019 -0700
+
+    Adding more ipsum text
+
+[33mcommit 425a86204bcea95a1422e598692fb57dda0bde75[m[33m ([m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Sargam Sharma <sargams14@gmail.com>
+Date:   Tue Aug 20 22:55:33 2019 -0700
+
+    Adding hipster.txt file in the starter-web repository
+    My first commit
+
+[33mcommit 4beb7f097b54ab7cf08daf17972c3ab14432ae24[m
+Merge: 5c05047 e73f914
+Author: Jason Taylor <jason@jasongtaylor.com>
+Date:   Wed Sep 2 02:39:19 2015 -0400
+
+    Merge pull request #6 from jasongtaylor/feature-readme
+    
+    Adding README file
+
+[33mcommit e73f9147e78331b2ea746dc43de5a44953766a76[m
+Author: Jason Taylor <jason@git.training>
+Date:   Wed Sep 2 02:25:18 2015 -0400
+
+    Adding Purpose section to README
+
+[33mcommit 34f563b40c4c1519026d2e881c75e97728c45502[m
+Author: Jason Taylor <jason@git.training>
+Date:   Wed Sep 2 02:06:05 2015 -0400
+
+    Adding README file
+
+[33mcommit 5c05047e53ecd0913a6f10000014d38829aaecdc[m
+Author: Jason Taylor <jason@screencasts.pro>
+Date:   Thu Sep 11 22:14:19 2014 -0400
+
+    Copying files from initializr project zip file and then creating simple.html as basis for super simple pages

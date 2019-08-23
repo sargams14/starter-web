@@ -8,3 +8,5 @@ This repository is for showing how Git and GitHub work
 modified it
 
 Sample website with plenty of files for demos
+
+2019 Git.Training

@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Sargam Sharma sargams14@gmail.com
 
 # THANKS
 
